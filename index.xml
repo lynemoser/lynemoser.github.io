@@ -101,49 +101,16 @@
 &lt;/table&gt;
 &lt;h2 id="phd-and-master-thesis"&gt;PhD and Master Thesis&lt;/h2&gt;
 &lt;p&gt;PhD Thesis: &lt;a href="https://lynemoser.com/Moser_PhDThesis.pdf"&gt;&lt;strong&gt;Homotopical relations between 2-dimensional categories and their infinity-analogues&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://lynemoser.com/sct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lynemoser.com/sct/</guid><description>&lt;h2 id="course-synthetic-category-theory"&gt;Course: Synthetic category theory&lt;/h2&gt;
-&lt;p&gt;During the Winter semester 2026/27, &amp;hellip;&lt;/p&gt;
+&lt;p&gt;The course aim at introducing students to the theory of infty-categories in the recent framework of Cisinski-Cnossen-Nguyen-Walde of synthetic category theory. The goal is to cover the main aspect of category theory such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Adjunctions&lt;/li&gt;
+&lt;li&gt;(Co)cartesian fibrations, left/right fibrations&lt;/li&gt;
+&lt;li&gt;(Un)straightening&lt;/li&gt;
+&lt;li&gt;Yoneda Lemma&lt;/li&gt;
+&lt;li&gt;Representability: (co)limits, left/right Kan extensions&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id="course-schedule"&gt;Course schedule&lt;/h3&gt;
-&lt;p&gt;The course will take place during the Winter semester 2026/27, which runs from October 12, 2026 to January 30, 2027.&lt;/p&gt;
-
-
-
-
-
-&lt;table id="schedule"&gt;
- &lt;thead&gt;
- &lt;tr&gt;
- &lt;th&gt;&lt;strong&gt;Week day&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Time&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Lecture/Exercise&lt;/strong&gt;&lt;/th&gt;
- &lt;th&gt;&lt;strong&gt;Room&lt;/strong&gt;&lt;/th&gt;
- &lt;/tr&gt;
- &lt;/thead&gt;
- &lt;tbody&gt;
- &lt;tr&gt;
- &lt;td&gt;Tuesday&lt;/td&gt;
- &lt;td&gt;14-16&lt;/td&gt;
- &lt;td&gt;Lecture&lt;/td&gt;
- &lt;td&gt;?&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Wednesday&lt;/td&gt;
- &lt;td&gt;14-16&lt;/td&gt;
- &lt;td&gt;Exercise session&lt;/td&gt;
- &lt;td&gt;?&lt;/td&gt;
- &lt;/tr&gt;
- &lt;tr&gt;
- &lt;td&gt;Friday&lt;/td&gt;
- &lt;td&gt;12-14&lt;/td&gt;
- &lt;td&gt;Lecture&lt;/td&gt;
- &lt;td&gt;?&lt;/td&gt;
- &lt;/tr&gt;
- &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id="lecture-notes"&gt;Lecture notes&lt;/h3&gt;
-&lt;p&gt;Lecture notes and exercises will be made available here.&lt;/p&gt;
-&lt;h3 id="references"&gt;References&lt;/h3&gt;
-&lt;p&gt;Cisinski, Cnossen, Nguyen, Walde, &lt;em&gt;Synthetic category theory&lt;/em&gt;, available &lt;a href="https://drive.google.com/file/d/1lKaq7watGGl3xvjqw9qHjm6SDPFJ2-0o/view"&gt;here&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://lynemoser.com/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lynemoser.com/seminar/</guid><description>&lt;h2 id="seminar-topics-in-2-categories"&gt;Seminar: Topics in (∞,2)-categories&lt;/h2&gt;
+&lt;p&gt;The course will take place during the Winter semester 2026/27, which runs from October 12, 2026 to January 30, 2027.&lt;/p&gt;</description></item><item><title/><link>https://lynemoser.com/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lynemoser.com/seminar/</guid><description>&lt;h2 id="seminar-topics-in-2-categories"&gt;Seminar: Topics in (∞,2)-categories&lt;/h2&gt;
 &lt;p&gt;During the Summer semester 2023, I organized a seminar on Topics in (∞,2)-categories. We had an overview of different models of (∞,2)-categories, as well as some constructions thereof, such as the Gray tensor product and (∞,2)-limits. We also considered some applications of (∞,2)-category theory in derived algebraic geometry, topological quantum field theory, and K-theory.&lt;/p&gt;
 &lt;p&gt;Here is a detailed program of the seminar.&lt;/p&gt;
 
